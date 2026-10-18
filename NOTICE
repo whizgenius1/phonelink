@@ -1,0 +1,5 @@
+phonelink uses the on-device server from scrcpy (https://github.com/Genymobile/scrcpy),
+Copyright (C) Genymobile and Romain Vimont,
+licensed under the Apache License, Version 2.0. The server is not bundled in this
+repository; phonelink uses the copy installed with scrcpy (e.g. `brew install scrcpy`).
+phonelink also mirrors scrcpy's HID report descriptors and control-message format.
